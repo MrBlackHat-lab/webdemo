@@ -1,38 +1,16 @@
 body{
-    background: url(https://images.unsplash.com/photo-1496711914408-534a237d7e26?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background: url(https://i.pinimg.com/originals/a4/98/4b/a4984b508f314d8aa94d0d86e4d32f46.jpg);
 }
-nav{
-    background-color: rgba(46, 47, 48, 0.582);
-    padding: 25px;
-    text-align: right;
-    
-}
-.bttt{
-    text-decoration: solid;
-    color: white;
-    padding-left: 40px;
-    font-size: 30px;
-}
-#lassn{
-    padding-top: 12%;
-}
-.tit{
-    text-decoration: solid;
-    font-size: 100px;
+
+#navber{
+    background-color: rgba(0, 0, 0, 0.548);
+    padding: 30px;
     text-align: center;
-    color: white;
 }
-.btn{
-    text-align: center;
-    margin: 20px;
+.contt{
+    text-decoration: solid;
+    color: aliceblue;
+    font-size: 20px;
     padding-left: 20px;
-    padding-top: 80px;
-    
-}
-.btt2{
-    border: none;
-    border-radius: 50px;
-    font-size: 30px;
-    background-color: pink;
-    padding: 10px;
+    padding-right: 20px;
 }
